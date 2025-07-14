@@ -96,5 +96,4 @@ uml-generator/
 
 ## 👨‍💻 Author
 
-Juwon Jung (@p4krq6cj2r)  
-AI/Data Science 연구소
+Juwon Jung
